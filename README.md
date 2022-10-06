@@ -2,9 +2,9 @@
 We are a small team of developers.
 I’m the developer of the Discord bot Pulsar. It is currently in OpenTest so everyone can try it. 
 Join our discord servers:
-[Pulsar](https://discord.gg/fDSCNrRESj)
-[Community](https://discord.gg/Fjm8wfd)
-[Gidor Mods](https://discord.gg/v8jswTx9MK)
+[Pulsar](https://discord.gg/fDSCNrRESj) |
+[Community](https://discord.gg/Fjm8wfd) |
+[Gidor Mods](https://discord.gg/v8jswTx9MK) |
 
 
 <!---
