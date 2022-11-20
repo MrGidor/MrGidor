@@ -1,6 +1,6 @@
 👋 Hi, Im Gidor, im the founder and the leader of the team: Gidor Studios.
 We are a small team of developers.
-I’m the developer of the Discord bot Pulsar. It is currently in OpenTest so everyone can try it. 
+I’m the developer of the Discord bot Pulsar, invite it to your server, it is a high end discord bot with more than a 100+ commands.
 Join our discord servers:
 [Pulsar](https://discord.gg/fDSCNrRESj) |
 [Community](https://discord.gg/Fjm8wfd) |
