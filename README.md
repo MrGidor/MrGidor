@@ -2,8 +2,8 @@
 <h1 align="center">Welcome to my Github</h1>
 <p align="center">Im Gidor, im the founder and the leader of the team: Gidor Studios, we are a small team of developers doin' fun stuff and projects.<br><br>I’m the developer of the Discord bot Pulsar, invite it to your server, it is a high end discord bot with more than a 100 commands.</p>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xGidor&theme=tokyonight)
 
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=xGidor&theme=dark)
 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" align="center"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" align="center"/> </a>
