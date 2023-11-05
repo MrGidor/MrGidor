@@ -2,9 +2,6 @@
 <h1 align="center">Welcome to my Github</h1>
 <p align="center">Im Gidor, im the founder and the leader of the team: Gidor Studios, we are a small team of developers doin' fun stuff and projects.<br><br>I’m the developer of the Discord bot Pulsar, invite it to your server, it is a high end discord bot with more than a 100 commands.</p>
 
-
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=xGidor&theme=dark)
-
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" align="center"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" align="center"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="csharp" width="40" height="40" align="center"/> </a>
@@ -17,6 +14,10 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" alt="Visual Studio" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
+
+<hr>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGidor&layout=compact&theme=dark&hide_border=true" /></a>
 
 <!---
 GidorStudios/GidorStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
