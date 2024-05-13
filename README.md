@@ -1,25 +1,44 @@
+## Welcome to my Github profile!
 
-<h1 align="center">Welcome to my Github</h1>
-<p align="center">Im Gidor, im the founder and the leader of the team: Gidor Studios, we are a small team of developers doin' fun stuff and projects.<br><br>I’m the developer of the Discord bot Pulsar, invite it to your server, it is a high end discord bot with more than a 100 commands.</p>
+**Languages I have used**
 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" align="center"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" align="center"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="csharp" width="40" height="40" align="center"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" align="center"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" align="center"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" align="center"/> </a>
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![C#](https://img.shields.io/badge/-Csharp-000000?style=flat&logo=Csharp)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" height="40"/> </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" alt="Visual Studio" width="40" height="40"/> </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
+**Technologies I have worked with**
 
-<hr>
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![Java Spring](https://img.shields.io/badge/-Android_Studio-000000?style=flat&logo=androidstudio&logoColor=6DB33F)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/-PacketTracer-000000?style=flat&logo=PacketTracer&logoColor=15321)
+![Packet Tracer](https://img.shields.io/badge/-Unity_Engine-000000?style=flat&logo=Unity&logoColor=15321)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGidor&layout=compact&theme=dark&hide_border=true" /></a>
+**Projects I am working on at the moment**
 
-<!---
-GidorStudios/GidorStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- A basic programming language (Currently Paused)
+- Discord Bot
+- Hearts of Iron 4: Ideology Mod
+- Hearts of Iron 4: Music Mod
+- Hearts of Iron 4: Occupation Zones Mod
+- Minecraft Server website
+- HoI4 Modding Tools
+- Space Game in Unity
+
+**Some old projects I worked on (Most of these are discontinued)**
+
+- Music Sharing Platform
+- First version of my discord bot
+- Hearts of Iron 4: WW3 mod
+- Minecraft Slimefun Addon Plugin
+
+<br>
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=xGidor&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,73FDFF,7A81FF&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGidor&hide_title=true&layout=compact&bg_color=0,73FDFF,7A81FF&theme=graywhite" />
