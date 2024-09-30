@@ -24,21 +24,9 @@
 
 **Projects I am working on at the moment**
 
-- A basic programming language (Currently Paused)
-- Discord Bot
-- Hearts of Iron 4: Ideology Mod
-- Hearts of Iron 4: Music Mod
-- Hearts of Iron 4: Occupation Zones Mod
-- Minecraft Server website
-- HoI4 Modding Tools
-- Space Game in Unity
+- Pulsar Bot Lead Dev
+- Project Orion (Unity Game)
 
-**Some old projects I worked on (Most of these are discontinued)**
-
-- Music Sharing Platform
-- First version of my discord bot
-- Hearts of Iron 4: WW3 mod
-- Minecraft Slimefun Addon Plugin
-
+  
 <br>
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=xGidor&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,73FDFF,7A81FF&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGidor&hide_title=true&layout=compact&bg_color=0,73FDFF,7A81FF&theme=graywhite" />
