@@ -37,4 +37,4 @@
 - Other smaller projects
 
 <br>
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=xGidor&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,73FDFF,7A81FF&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGidor&hide_title=true&layout=compact&bg_color=0,73FDFF,7A81FF&theme=graywhite" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=MrGidor&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,73FDFF,7A81FF&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGidor&hide_title=true&layout=compact&bg_color=0,73FDFF,7A81FF&theme=graywhite" />
