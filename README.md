@@ -24,17 +24,5 @@
 ![Packet Tracer](https://img.shields.io/badge/-PacketTracer-000000?style=flat&logo=PacketTracer&logoColor=15321)
 ![Packet Tracer](https://img.shields.io/badge/-Unity_Engine-000000?style=flat&logo=Unity&logoColor=15321)
 
-## Currently I'm working on
-
-- KDesktop (Just a little QoL program)
-- Pulsar (A Discord Bot)
-- Starwave (A Fullstack project)
-
-## Other projects I was involved in
-
-- Scripty Language (A programming language I tried to make in c++. Failed, but was a fun project)
-- Gid (Discord Bot, Successor: Pulsar)
-- Other smaller projects
-
 <br>
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=MrGidor&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,73FDFF,7A81FF&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGidor&hide_title=true&layout=compact&bg_color=0,73FDFF,7A81FF&theme=graywhite" />
