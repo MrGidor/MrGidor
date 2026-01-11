@@ -1,28 +1,39 @@
-# Welcome to my Github profile!
+## 👋 Hi, I’m Kazi
 
-👋 Hi, I’m Gidor! I’m a passionate developer interested in game development, scripting tools, and automation. I enjoy working with C++, C#, and Python.
+I’m a passionate developer focused on game development, full-stack web development, and discord bot development.
+I enjoy building systems from the ground up and experiementing with both low-level and high-level technologies.
 
-## Languages I have used
+- 🎮 Game development (mainly Unity / C#)
+- ⚙️ Web Development (Full-Stack)
+- 🐧 Linux user, automation enjoyer
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/-Csharp-000000?style=flat&logo=Csharp)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+## 🎓 Education & Qualification
 
-## Technologies I have worked with
+- 🎓 Informatikai Rendszer- és Alkalmazás-üzemeltető technikus  
+  (Computer systems, networks, applications, IT security, cloud services)
+- 🎓 Current studies: Cybersecurity Engineering, Bánki Donát Faculty of Mechanical and Security Engineering
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![Java Spring](https://img.shields.io/badge/-Android_Studio-000000?style=flat&logo=androidstudio&logoColor=6DB33F)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/-PacketTracer-000000?style=flat&logo=PacketTracer&logoColor=15321)
-![Packet Tracer](https://img.shields.io/badge/-Unity_Engine-000000?style=flat&logo=Unity&logoColor=15321)
+## 🧠 Languages
+
+### Advanced
+![Advanced](https://skillicons.dev/icons?i=py,cs,html,css,php,js,mysql&perline=7)
+
+### Intermediate
+![Intermediate](https://skillicons.dev/icons?i=c,cpp,java,bash&perline=7)
+
+### Familiar
+![Familiar](https://skillicons.dev/icons?i=lua,powershell,ts&perline=7)
+
+
+## 🧰 Technologies & Tools
+
+![My Tech](https://skillicons.dev/icons?i=androidstudio,azure,arch,blender,bootstrap,cloudflare,debian,discord,bots,docker,dotnet,git,github,gradle,idea,nodejs,vscode,visualstudio,unity&perline=7)
 
 <br>
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=MrGidor&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,73FDFF,7A81FF&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGidor&hide_title=true&layout=compact&bg_color=0,73FDFF,7A81FF&theme=graywhite" />
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+![TopLangs](https://github-readme-stats-g-two.vercel.app/api/top-langs/?username=mrgidor&theme=radical)
+![Github Stats](https://github-readme-stats-g-two.vercel.app/api?username=mrgidor&theme=radical&include_all_commits=true)
+</details>
+
