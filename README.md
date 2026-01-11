@@ -13,6 +13,12 @@ I enjoy building systems from the ground up and experiementing with both low-lev
   (Computer systems, networks, applications, IT security, cloud services)
 - 🎓 Current studies: Cybersecurity Engineering, Bánki Donát Faculty of Mechanical and Security Engineering
 
+## ⚒️ Current Projects
+
+- Developing a website for a public YouTube Fishing brand with 1.5k+ subscribers. (equity-based collaboration)
+- The discord bot Pulsar.
+- My dream game.
+
 ## 🧠 Languages
 
 ### Advanced
