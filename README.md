@@ -39,7 +39,7 @@ I enjoy building systems from the ground up and experiementing with both low-lev
 <details>
   <summary>Github Stats ⚡</summary>
   
-![TopLangs](https://github-readme-stats-g-two.vercel.app/api/top-langs/?username=mrgidor&theme=radical)
-![Github Stats](https://github-readme-stats-g-two.vercel.app/api?username=mrgidor&theme=radical&include_all_commits=true)
+![TopLangs](https://github-readme-stats-g-two.vercel.app/api/top-langs/?username=mrgidor&theme=radical&cache_seconds=21600)
+![Github Stats](https://github-readme-stats-g-two.vercel.app/api?username=mrgidor&theme=radical&include_all_commits=true&cache_seconds=21600)
 </details>
 
